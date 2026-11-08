@@ -35,3 +35,14 @@ src/main/java/by/Brahyam/Garcia/Blas/the_message/
 ├── Service/        # Business logic interfaces (the "brain" of the application)
 ├── Servicelmpl/    # Concrete implementations of business logic and mail handling
 └── Util/           # Helper classes and standard web response wrappers
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+## 📋 Prerequisites
+
+Before running this project, ensure you have the following installed on your local machine:
+* **[Git](https://git-scm.com/)**: To clone the repository.
+* **[Docker Desktop](https://www.docker.com/products/docker-desktop/)**: Must be installed and running in the background to build and spin up the containers.
+* *(Note: You do NOT need Java, Maven, or MySQL installed locally. Docker handles all dependencies internally.)*
